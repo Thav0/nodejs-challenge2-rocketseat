@@ -30,6 +30,11 @@ In this challenge I had to put in practice what I've learned about Nodejs so far
 ### **What I've learned**
 
 - Yarn/Npm
+- Concepts of JWT (Json Web Token) and how to apply it
+ . Headers (token type, algorithm)
+ . Payload (Additional data)
+ . Signature
+- Authentication through JWT
 - Nodejs Concepts and how it really works
  . Goolgle V8
  . Single-Thread
@@ -54,12 +59,6 @@ In this challenge I had to put in practice what I've learned about Nodejs so far
 - How to use bcrypt library
 - How to validate data schema through Yup library
 - How to use local/global middleware, is this case I've created auth middleware
-- Concepts of JWT (Json Web Token) and how to apply it;
- . Goolgle V8
- . Headers (token type, algorithm)
- . Payload (Additional data)
- . Signature
-- Authentication through JWT
 - HTTP verbs
 
 ### **How to use it**
