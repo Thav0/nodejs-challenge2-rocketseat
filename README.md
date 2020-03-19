@@ -54,7 +54,8 @@ In this challenge I had to put in practice what I've learned about Nodejs so far
 - How to use bcrypt library
 - How to validate data schema through Yup library
 - How to use local/global middleware, is this case I've created auth middleware
-* Concepts of JWT (Json Web Token) and how to apply it
+- Concepts of JWT (Json Web Token) and how to apply it
+
  . Headers (token type, algorithm)
  . Payload (Additional data)
  . Signature
