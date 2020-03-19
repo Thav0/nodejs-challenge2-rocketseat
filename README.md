@@ -8,8 +8,8 @@ This challenge is part of Final Challenge, which is a complete app (Back-end, Fr
 
 ## :rocket: About the challenge
 
-<p>
-In this challenge I had to put in practice what I've learned about Nodejs so far
+In this challenge I had to put in practice what I've learned about Nodejs so far<br>
+
 - Allow that user authenticate by using email and password
 - Use authentication library called JWT (Json web token)
 - Validate data entry schema with Yup
@@ -17,7 +17,6 @@ In this challenge I had to put in practice what I've learned about Nodejs so far
 - Allow to create admin users through POST and use bcrypt to encrypt the password
 - Create Tables using migration from sequelize
 - Allow only admin insert recipients data through JWT
-</p>
 
 ### **Tools that I've used**
 
