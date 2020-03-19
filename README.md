@@ -30,7 +30,7 @@ In this challenge I had to put in practice what I've learned about Nodejs so far
 ### **What I've learned**
 
 - Yarn/Npm
-- Concepts of JWT (Json Web Token) and how to apply it
+- Concepts of JWT (Json Web Token) and how to apply it:
  - Headers (token type, algorithm)
  - Payload (Additional data)
  - Signature
