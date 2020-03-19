@@ -35,18 +35,18 @@ In this challenge I had to put in practice what I've learned about Nodejs so far
  - Payload (Additional data)
  - Signature
 - Authentication through JWT
-- Nodejs Concepts and how it really works
- - Goolgle V8
- - Single-Thread
+- Nodejs Concepts and how it really works;
+ . Goolgle V8
+ . Single-Thread
   - Multi-Thread through	C++ by lib libuv
   - Background-Threads
- - Event Loop
+ . Event Loop
   - Callstack
- - Non-blocking IO
+ . Non-blocking IO
   - Web sotcket (Persistent request)
 - ExpressJS framework
- - Good for micro-services
- - Without opinion/structure
+ . Good for micro-services
+ . Without opinion/structure
 - How an API works
 - How to use and add extra configs on Nodemon
 - How to use sucrase to add Es6/7+ features in Nodejs (I could use also Babel)
