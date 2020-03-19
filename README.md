@@ -15,6 +15,7 @@ In this challenge I had to put in practice what I've learned about Nodejs so far
 - Validate data entry schema with Yup
 - Create admin user using seeds from sequelize
 - Allow to create admin users through POST and use bcrypt to encrypt the password
+ . Use Sequelize Hook *beforeSave*
 - Create Tables using migration from sequelize
 - Allow only admin insert recipients data through JWT
 
@@ -59,8 +60,25 @@ In this challenge I had to put in practice what I've learned about Nodejs so far
  . Signature
 - Authentication through JWT
 - HTTP verbs
- . POST
- . PUT
- . PATCH
- . DELETE
- . UPDATE
+
+### **How to use it**
+
+Install node modules
+```
+yarn install
+```
+
+Run migrations
+```
+yarn sequelize db:migrate
+```
+
+Run Seed
+```
+yarn sequelize db:seed:all
+```
+
+Run Server
+```
+yarn dev
+```
