@@ -36,8 +36,8 @@ In this challenge I had to put in practice what I've learned about Nodejs so far
  - Signature
 - Authentication through JWT
 - Nodejs Concepts and how it really works;
- . Goolgle V8
- . Single-Thread
+ - Goolgle V8
+ - Single-Thread
   - Multi-Thread through	C++ by lib libuv
   - Background-Threads
  . Event Loop
